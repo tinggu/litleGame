@@ -1,0 +1,24 @@
+//公共容器
+.com-container {
+    max-width: 900px;
+    height: 100%;
+    margin: 0 auto;
+    //内容上下居中
+    align-items: center;
+    padding: 0 10px;
+}
+
+//公共顶部下划线
+.com-border-top {
+    border-top: 1px solid #ebedf1;
+}
+
+//公共底部下划线
+.com-border-bottom {
+    border-bottom: 1px solid #ebedf1;
+}
+
+//公共阴影
+.com-box-shadow {
+    box-shadow: 0 0.75rem 1.5rem #12263f08;
+}
